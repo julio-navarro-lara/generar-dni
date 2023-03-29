@@ -1,5 +1,5 @@
 # generar-dni
-Script for generating random Spanish DNI numbers. 
+Script for generating a wordlist of random Spanish DNI numbers. 
 Based on a script by ricardojosef: https://github.com/ricardojoserf/dni-spain-wordlist
 
 Usage for a quantity "q" of random DNI numbers:
